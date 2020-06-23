@@ -1,0 +1,15 @@
+.createEvent{
+    height:49px;
+    width:100%;
+    background:transparent;
+    border:none;
+}
+
+.createEvent:hover,.createEvent:focus,.createEvent:active,
+.createEvent:active:focus:not(:disabled):not(.disabled),
+.createEvent:focus, .createEvent:active, .createEvent:hover{
+    box-shadow: none!important;
+    outline: 0;
+    background:transparent;
+    cursor:default !important;
+}

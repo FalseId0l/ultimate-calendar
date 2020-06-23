@@ -1,0 +1,60 @@
+.weekViewTable{
+
+
+  td{
+    text-align:center;
+  }
+
+  th{
+    text-align:center;
+  }
+
+  td.timeZone{
+    font-size:0.6em;
+  }
+
+  td.eventData{
+    text-overflow: ellipsis;
+    font-size:0.6em;
+    padding:0 !important;
+    position:relative;
+    height:49px;
+  }
+
+  .eventsContainer{
+    position:absolute;
+    top:0;
+    width:90%;
+    border-radius:5px;
+    z-index:9;
+    padding-left:0;
+    padding-right:0;
+  }
+
+  .eventsRow{
+    position:relative;
+    margin:0;
+  }
+
+  .eventColumn{
+    position:relative;
+    border-radius: 5px;
+    padding-left:0;
+    padding-right:0;
+  }
+
+  .eventSummary{
+    max-height:25%;
+    overflow:hidden;
+    white-space:nowrap;
+  }
+
+  .eventTime{
+    max-height:25%;
+    overflow:hidden;
+    white-space:nowrap;
+  }
+}
+
+
+

@@ -1,0 +1,30 @@
+.calendarOpen{
+  position:absolute;
+  width:370px;
+  z-index:4;
+  background:white;
+  border:1px solid gray;
+  border-radius:4px;
+  outline: none !important;
+}
+
+.dateSelector{
+  display:inline-block;
+  position:relative;
+}
+
+.dateSelectorInput{
+  width:120px;
+}
+
+.calendarIcon{
+  position:absolute;
+  margin-top:-29px;
+  margin-left:93px; //Short hand order is top, right, bottom and left.
+  padding: 0 5px 2px 5px;
+  overflow: hidden;
+}
+
+.calendarIcon:hover{
+  color:rgb(0,120,215);
+}

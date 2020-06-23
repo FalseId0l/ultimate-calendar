@@ -1,0 +1,105 @@
+[{
+  "kind": "calendar#event",
+  "etag": "etag",
+  "id": "10232019312",
+  "status": "Active",
+  "htmlLink": "html",
+  "created": "2020-06-13T04:00:00.000Z",
+  "updated": "",
+  "summary": "This is a test Event #1",
+  "description": "This is a test description #1",
+  "location": "Unknown",
+  "colorId": "pink",
+  "creator": {
+    "id": "2013123",
+    "email": "1994.ron@gmail.com",
+    "displayName": "Slade",
+    "self": "Yes"
+  },
+  "organizer": {
+    "id": "2013123",
+    "email": "1994.ron@gmail.com",
+    "displayName": "Wilson",
+    "self": "No"
+  },
+  "start": {
+    "date": "2020-06-18",
+    "dateTime": "2020-06-18T04:30:00.000Z",
+    "timeZone": "GMT-0700 (Mountain Standard Time)"
+  },
+  "end": {
+    "date": "2020-06-18",
+    "dateTime": "2020-06-18T07:35:00.000Z",
+    "timeZone": "GMT-0700 (Mountain Standard Time)"
+  }
+},{
+  "kind": "calendar#event",
+  "etag": "etag",
+  "id": "10232019312",
+  "status": "Active",
+  "htmlLink": "html",
+  "created": "2020-06-13T04:00:00.000Z",
+  "updated": "",
+  "summary": "This is a test Event #3",
+  "description": "This is a test description #3",
+  "location": "Unknown",
+  "colorId": "lightblue",
+  "creator": {
+    "id": "2013123",
+    "email": "1994.ron@gmail.com",
+    "displayName": "Slade",
+    "self": "Yes"
+  },
+  "organizer": {
+    "id": "2013123",
+    "email": "1994.ron@gmail.com",
+    "displayName": "Wilson",
+    "self": "No"
+  },
+  "start": {
+    "date": "2020-06-18",
+    "dateTime": "2020-06-18T04:50:00.000Z",
+    "timeZone": "GMT-0700 (Mountain Standard Time)"
+  },
+  "end": {
+    "date": "2020-06-18",
+    "dateTime": "2020-06-18T09:00:00.000Z",
+    "timeZone": "GMT-0700 (Mountain Standard Time)"
+  }
+},
+{
+  "kind": "calendar#event",
+  "etag": "etag",
+  "id": "10232019313",
+  "status": "Active",
+  "htmlLink": "html",
+  "created": "Fri Jun 12 2020 09:00:00 GMT-0700 (Mountain Standard Time)",
+  "updated": "",
+  "summary": "This is a test Event #2",
+  "description": "This is a test description #2",
+  "location": "Unknown",
+  "colorId": "lightgreen",
+  "creator": {
+    "id": "2013123",
+    "email": "1994.ron@gmail.com",
+    "displayName": "Slade",
+    "self": "Yes"
+  },
+  "organizer": {
+    "id": "2013124",
+    "email": "chaturvedinandita@gmail.com",
+    "displayName": "NandChat",
+    "self": "No"
+  },
+  "start": {
+    "date": "2020-06-15",
+    "dateTime": "2020-06-15T09:00:00.000Z",
+    "timeZone": "GMT-0700 (Mountain Standard Time)"
+  },
+  "end": {
+    "date": "2020-06-15",
+    "dateTime": "2020-06-15T12:00:00.000Z",
+    "timeZone": "GMT-0700 (Mountain Standard Time)"
+  }
+}
+  ]

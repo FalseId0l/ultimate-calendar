@@ -1,0 +1,16 @@
+.showEvent{
+  position:absolute;
+  width:inherit;
+  border:none;
+  background:transparent;
+  left:0;
+}
+
+.showEvent:hover,.showEvent:focus,.showEvent:active,
+.showEvent:active:focus:not(:disabled):not(.disabled),
+.showEvent:focus, .showEvent:active, .showEvent:hover{
+  box-shadow: none!important;
+  outline: 0;
+  background:transparent;
+  cursor:pointer;
+}
