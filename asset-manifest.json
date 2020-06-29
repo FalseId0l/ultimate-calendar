@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ultimate-calendar/static/css/main.142f4c0e.chunk.css",
+    "main.js": "/ultimate-calendar/static/js/main.7ea0d8e3.chunk.js",
+    "main.js.map": "/ultimate-calendar/static/js/main.7ea0d8e3.chunk.js.map",
+    "runtime-main.js": "/ultimate-calendar/static/js/runtime-main.f6c790ce.js",
+    "runtime-main.js.map": "/ultimate-calendar/static/js/runtime-main.f6c790ce.js.map",
+    "static/js/2.ea4f691b.chunk.js": "/ultimate-calendar/static/js/2.ea4f691b.chunk.js",
+    "static/js/2.ea4f691b.chunk.js.map": "/ultimate-calendar/static/js/2.ea4f691b.chunk.js.map",
+    "index.html": "/ultimate-calendar/index.html",
+    "precache-manifest.08b390f82a304fa1bd848884e33a4257.js": "/ultimate-calendar/precache-manifest.08b390f82a304fa1bd848884e33a4257.js",
+    "service-worker.js": "/ultimate-calendar/service-worker.js",
+    "static/css/main.142f4c0e.chunk.css.map": "/ultimate-calendar/static/css/main.142f4c0e.chunk.css.map",
+    "static/js/2.ea4f691b.chunk.js.LICENSE.txt": "/ultimate-calendar/static/js/2.ea4f691b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f6c790ce.js",
+    "static/js/2.ea4f691b.chunk.js",
+    "static/css/main.142f4c0e.chunk.css",
+    "static/js/main.7ea0d8e3.chunk.js"
+  ]
+}
